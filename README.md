@@ -6,7 +6,10 @@ My career goal is to leverage technology to enhance and enrich our daily lives- 
 
 <div align="center">
 
-#### I pursue writing code that are: <br/>📃self-explanatory,<br/> 💡easy to understand, and<br/> 👯‍♀️easy to collaborate on.
+#### I pursue writing code that are:
+self-explanatory,<br/>
+easy to understand,<br/>
+and ️easy to collaborate on.<br/>
 #### I'm currently working with:<br/>![CSharp Badge](https://img.shields.io/badge/C%23-6a329f?style=flat&logo=CSharp&logoColor=white) ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white) <br/>  ![SourceTree Badge](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white) ![SlackBadge](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white) ![Confluence Badge](https://img.shields.io/badge/Confluence-0357d1?style=flat&logo=Confluence&logoColor=white) ![Jira Badge](https://img.shields.io/badge/Jira-0357d1?style=flat&logo=Jira&logoColor=white) ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0357d1?style=flat&logo=Bitbucket&logoColor=white)
 
 
