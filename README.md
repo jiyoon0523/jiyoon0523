@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f2fdfd,60:c9f8fa,100:6de0e5&height=250&section=header&text=Hi!%20I'm%20Jiyoon.&fontAlign=70&render&fontSize=60&fontAlignY=40&&fontColor=00000)
 
 Highly motivated unity engineer with over 2 years of experience in XR/3D projects. I have taken parts in projects including mobile apps supported by augmented reality and creator platforms for immersive digital twin spaces. Currently, I am focused on the development of 3D interaction and input systems for standalone apps.<br/>
+<br/>
 In addition to my professional work, I am actively studying machine learning and OpenCV to explore the broader applications of augmented reality in the mobile environment and to incorporate machine learning in such applications.<br/>
 
 <div align="center">
